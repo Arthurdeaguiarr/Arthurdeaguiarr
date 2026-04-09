@@ -8,11 +8,12 @@ Estudante de Ciência da Computação focado em desenvolvimento web e design de 
 
 ### 🔍 Sobre Mim
 
-- 🎓 Graduando em **Ciência da Computação** (1º Semestre).
-- 🛠️ Experiência prática com **JavaScript, HTML5, CSS3 e Python**.
-- 📊 Interessado em **Análise de Dados** (SQL, Power BI e Visualização de Dados).
-- 🎨 Entusiasta de **UI/UX**, aplicando heurísticas de usabilidade em cada projeto.
-- 🎯 **Objetivo:** Atuar como Desenvolvedor Júnior.
+-  Graduando em **Ciência da Computação** (1º Semestre).
+-  Experiência prática com **JavaScript, HTML5, CSS3 e Python**.
+-  Interessado em **Análise de Dados** (SQL, Power BI e Visualização de Dados).
+-  Entusiasta de **UI/UX**, aplicando heurísticas de usabilidade em cada projeto.
+-  Aderência a boas práticas e estou em constante busca pelo aperfeiçoamento profissional.
+-  **Objetivo:** Atuar como Desenvolvedor Júnior.
 
 ---
 
@@ -23,7 +24,7 @@ Uma aplicação de lista de tarefas inspirada no Google Tasks, focada em produti
 *Tech: HTML5, CSS3, JavaScript.*
 
 #### [Portfólio](link-do-repositorio)
-Plataforma de organização de estudos com CRUD completo e autenticação JWT.
+Portfólio pessoal, criado com o objetivo de armazenar e organizar projetos pessoais.
 *Tech: HTML5, CSS3, JavaScript.*
 
 ---
