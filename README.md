@@ -4,15 +4,28 @@ Sou estudante de Ciência da Computação e desenvolvedor de software focado na 
 
 Tenho interesse profundo em arquitetura de sistemas e em como a tecnologia pode simplificar o gerenciamento de dados complexos, seja na produtividade acadêmica ou na organização financeira.
 
-## 🛠️ Stack Tecnológico e Ferramentas
+### Linguagens e Front-end
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
 
-Minha abordagem de desenvolvimento prioriza a escolha da ferramenta certa para o problema, mantendo uma base sólida em engenharia de software.
+### Back-end, Dados e Integrações
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <!-- Substitua os bancos abaixo pelos que você realmente domina -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
+</div>
 
-*   **Linguagens de Programação:** JavaScript, Python.
-*   **Desenvolvimento Web:** HTML5, CSS3.
-*   **Backend & Integrações:** Node.js, Desenvolvimento e Consumo de APIs RESTful.
-*   **Armazenamento de Dados:** Modelagem e gestão de Bancos de Dados Relacionais e Não-Relacionais.
-*   **Ambiente e Ferramentas:** Git, VSCode, Terminal/CLI.
+### Ambiente e Versionamento
+<div align="left">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
 ## 💻 Projetos em Destaque
 
