@@ -1,108 +1,80 @@
-<div align="center">
+# Construindo sistemas escaláveis com código limpo e UI minimalista.
 
-  <h1>Arthur de Aguiar Santos</h1>
-  <p><b>Estudante de Ciência da Computação @ UDF | Desenvolvedor Web & Software</b></p>
-
-  <p>
-    <a href="https://linkedin.com/in/arthur-de-aguiar-a77995289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:arthurdeaguiarr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://github.com/Arthurdeaguiarr"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  </p>
-
-  ---
-</div>
-
-## 📌 Sobre Mim
-
-Sou graduando em Ciência da Computação focado no desenvolvimento de software end-to-end, construção de APIs RESTful e criação de interfaces web com design minimalista de alto contraste. 
-
-Busco constantemente aplicar **Princípios de Engenharia de Software**, **Clean Code** e **Arquitetura Modular** na resolução de problemas reais, com ênfase em sistemas de produtividade e gestão financeira.
+Ciência da Computação @ UDF • Software Engineering • Full-Stack Web • Node.js • JavaScript • Python • REST APIs • SQL & Relational Databases • Minimalist UI/UX
 
 ---
 
-## 🛠️ Stack Tecnológico & Especialidades
+## 👨‍💻 Sobre mim
 
-### 🌐 Front-End & Interface
-<table>
-  <tr>
-    <td width="20%"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></td>
-    <td><b>ES6+ & Manipulação do DOM:</b> Programação assíncrona (Promises/Async-Await), consumo de APIs externas e lógica client-side reativa.</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/></td>
-    <td><b>Estruturação Semântica:</b> Desenvolvimento focado em Acessibilidade (WCAG), SEO e hierarquia limpa de elementos.</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></td>
-    <td><b>Layouts e Estilização:</b> Flexbox, CSS Grid, Design Responsivo, variáveis CSS e interfaces minimalistas de alto contraste.</td>
-  </tr>
-</table>
+Sou estudante de Ciência da Computação no Centro Universitário UDF com foco no desenvolvimento de software end-to-end, construção de APIs RESTful e criação de interfaces web minimalistas e de alto contraste. Utilizo fundamentos de engenharia para criar aplicações performáticas e focadas em usabilidade.
 
-### ⚙️ Back-End & Engenharia de Dados
-<table>
-  <tr>
-    <td width="20%"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/></td>
-    <td><b>Runtime Server-Side:</b> Construção de aplicações escaláveis, manipulação de streams e modularização de código.</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></td>
-    <td><b>Lógica & Automação:</b> Estruturas de dados, algoritmos de otimização e scripts de automação de processos.</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=json&logoColor=white" alt="REST APIs"/></td>
-    <td><b>Integrações & Endpoints:</b> Arquitetura RESTful, formatação JSON, tratamento rigoroso de erros e status códigos HTTP.</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Databases-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="Databases"/></td>
-    <td><b>Modelagem de Dados:</b> Persistência de dados, modelagem relacional/não-relacional, consultas SQL e integridade referencial.</td>
-  </tr>
-</table>
-
-### 🔧 Ferramentas & Ecossistema
-<table>
-  <tr>
-    <td width="20%"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/></td>
-    <td><b>Ambiente de Desenvolvimento:</b> Configuração otimizada, proficiência em atalhos, depuração de código (debugging) e extensões de produtividade.</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></td>
-    <td><b>Controle de Versão:</b> Workflow com commits semânticos, gerenciamento de branches, merge resolution e Pull Requests.</td>
-  </tr>
-</table>
+Atualmente, direciono minha atuação para Engenharia de Software e Desenvolvimento Web, com foco prático em arquitetura modular, Clean Code e integração de sistemas. Destaco-me pelo raciocínio lógico, organização técnica e rigor no controle de versão.
 
 ---
 
-## 🚀 Projetos Principais
+## 🧠 Como penso no desenvolvimento de software
 
-### 1. 📊 [Vektor - Monitor de Finanças Pessoais](https://github.com/SEU_USUARIO/vektor)
-> *Gerenciador financeiro pessoal minimalista focado na clareza de fluxo de caixa.*
-* **Destaques Técnicos:** Interface limpa baseada em design de alto contraste, separação clara entre camadas de apresentação e lógica de negócios, e consumo de dados otimizado.
-* **Tecnologias:** JavaScript, HTML5, CSS3, REST API, LocalStorage/Database.
-
-### 2. 🎯 [TaskFlow - Sistema de Gestão Acadêmica](https://github.com/SEU_USUARIO/taskflow)
-> *Plataforma orientada à redução da procrastinação acadêmica e controle rígido de prazos.*
-* **Destaques Técnicos:** Arquitetura orientada à experiência do usuário, mapeamento completo de jornada, gerenciamento de estados e controle de prazos com regras de negócio personalizadas.
-* **Tecnologias:** Node.js, JavaScript, HTML5, CSS3.
-
----
-
-## 📐 Diretrizes & Boas Práticas
-
-* **Clean Code:** Prioridade para nomes expressivos de variáveis e funções, evitando comentários óbvios.
-* **UI/UX Minimalista:** Foco em hierarquia visual intuitiva, remoção de elementos visuais desnecessários e alta performance de renderização.
-* **Versionamento Disciplinado:** Commits atômicos e bem documentados seguindo padrões de mercado.
+🔍 Compreender o problema / requisito
+↓
+📐 Modelar o banco de dados e arquitetura
+↓
+💡 Projetar interfaces minimalistas (UI/UX)
+↓
+📋 Definir contratos de API (REST)
+↓
+⚙️ Desenvolver o backend e regras de negócio
+↓
+🎨 Integrar o frontend de alta performance
+↓
+🧪 Testar, refatorar e aplicar Clean Code
+↓
+🔄 Iterar e evoluir o sistema continuamente
 
 ---
 
-## 📈 Estatísticas & Atividade
+## 🚀 Áreas de Interesse
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthurdeaguiarr&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas de Arthur" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdeaguiarr&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais utilizadas" height="150" />
-</div>
+* Software Engineering & Web Development
+* Arquitetura de APIs RESTful
+* Modelagem de Bancos de Dados Relacionais (SQL)
+* Interfaces Minimalistas & Alto Contraste (UI/UX)
+* Clean Code & Boas Práticas de Programação
+* Sistemas de Produtividade e Finanças Pessoais
 
-<br />
+---
 
-<div align="center">
-  <sub><i>Projetado com foco em clareza, rigor técnico e alta usabilidade.</i></sub>
-</div>
+## 💻 Tecnologias
+
+### Desenvolvimento
+<p left>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs" alt="Tecnologias de Desenvolvimento" />
+  </a>
+</p>
+
+### Ferramentas & Infraestrutura
+<p left>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postgres,mysql" alt="Ferramentas e Bancos de Dados" />
+  </a>
+</p>
+
+---
+
+## 🌱 Atualmente estou estudando
+
+* Arquitetura de Software e Padrões de Projeto (Design Patterns)
+* Modelagem Avançada de Bancos de Dados e Consultas SQL
+* Estruturas de Dados e Algoritmos com Python e JavaScript
+* Acessibilidade Web (WCAG) e Performance no Front-End
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Estou sempre aberto para conversar sobre Engenharia de Software, Desenvolvimento Web, Arquitetura de Sistemas e oportunidades de colaboração técnica.
+
+<p left>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:SEU_EMAIL@DOMINIO.COM"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
