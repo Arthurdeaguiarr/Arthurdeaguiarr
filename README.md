@@ -1,9 +1,5 @@
 # Olá, meu nome é Arthur! 👋
 
-Construindo sistemas escaláveis com código limpo e UI minimalista.
-
-Ciência da Computação @ UDF • Software Engineering • Full-Stack Web • Node.js • JavaScript • Python • REST APIs • SQL & Relational Databases • Minimalist UI/UX
-
 ---
 
 # Construindo sistemas escaláveis com código limpo e UI minimalista.
