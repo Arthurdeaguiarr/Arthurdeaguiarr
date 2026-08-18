@@ -22,21 +22,21 @@ Atualmente, direciono minha atuação para Engenharia de Software e Desenvolvime
 
 ## 🧠 Como penso no desenvolvimento de software
 
-🔍 Compreender o problema / requisito
-↓
-📐 Modelar o banco de dados e arquitetura
-↓
-💡 Projetar interfaces minimalistas (UI/UX)
-↓
-📋 Definir contratos de API (REST)
-↓
-⚙️ Desenvolver o backend e regras de negócio
-↓
-🎨 Integrar o frontend de alta performance
-↓
-🧪 Testar, refatorar e aplicar Clean Code
-↓
-🔄 Iterar e evoluir o sistema continuamente
+*🔍 Compreender o problema / requisito
+*↓
+*📐 Modelar o banco de dados e arquitetura
+*↓
+*💡 Projetar interfaces minimalistas (UI/UX)
+*↓
+*📋 Definir contratos de API (REST)
+*↓
+*⚙️ Desenvolver o backend e regras de negócio
+*↓
+*🎨 Integrar o frontend de alta performance
+*↓
+*🧪 Testar, refatorar e aplicar Clean Code
+*↓
+* 🔄 Iterar e evoluir o sistema continuamente
 
 ---
 
