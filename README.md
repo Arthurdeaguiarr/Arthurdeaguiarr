@@ -1,48 +1,108 @@
-# Olá, eu sou o Arthur.
+<div align="center">
 
-Sou estudante de Ciência da Computação e desenvolvedor de software focado na construção de aplicações minimalistas, escaláveis e orientadas à experiência do usuário. 
+  <h1>Arthur de Aguiar Santos</h1>
+  <p><b>Estudante de Ciência da Computação @ UDF | Desenvolvedor Web & Software</b></p>
 
-Tenho interesse profundo em arquitetura de sistemas e em como a tecnologia pode simplificar o gerenciamento de dados complexos, seja na produtividade acadêmica ou na organização financeira.
+  <p>
+    <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:SEU_EMAIL@DOMINIO.COM"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
 
-### Linguagens e Front-end
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  ---
 </div>
 
-### Back-end, Dados e Integrações
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <!-- Substitua os bancos abaixo pelos que você realmente domina -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
+## 📌 Sobre Mim
+
+Sou graduando em Ciência da Computação focado no desenvolvimento de software end-to-end, construção de APIs RESTful e criação de interfaces web com design minimalista de alto contraste. 
+
+Busco constantemente aplicar **Princípios de Engenharia de Software**, **Clean Code** e **Arquitetura Modular** na resolução de problemas reais, com ênfase em sistemas de produtividade e gestão financeira.
+
+---
+
+## 🛠️ Stack Tecnológico & Especialidades
+
+### 🌐 Front-End & Interface
+<table>
+  <tr>
+    <td width="20%"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+    <td><b>ES6+ & Manipulação do DOM:</b> Programação assíncrona (Promises/Async-Await), consumo de APIs externas e lógica client-side reativa.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/></td>
+    <td><b>Estruturação Semântica:</b> Desenvolvimento focado em Acessibilidade (WCAG), SEO e hierarquia limpa de elementos.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></td>
+    <td><b>Layouts e Estilização:</b> Flexbox, CSS Grid, Design Responsivo, variáveis CSS e interfaces minimalistas de alto contraste.</td>
+  </tr>
+</table>
+
+### ⚙️ Back-End & Engenharia de Dados
+<table>
+  <tr>
+    <td width="20%"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/></td>
+    <td><b>Runtime Server-Side:</b> Construção de aplicações escaláveis, manipulação de streams e modularização de código.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></td>
+    <td><b>Lógica & Automação:</b> Estruturas de dados, algoritmos de otimização e scripts de automação de processos.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=json&logoColor=white" alt="REST APIs"/></td>
+    <td><b>Integrações & Endpoints:</b> Arquitetura RESTful, formatação JSON, tratamento rigoroso de erros e status códigos HTTP.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Databases-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="Databases"/></td>
+    <td><b>Modelagem de Dados:</b> Persistência de dados, modelagem relacional/não-relacional, consultas SQL e integridade referencial.</td>
+  </tr>
+</table>
+
+### 🔧 Ferramentas & Ecossistema
+<table>
+  <tr>
+    <td width="20%"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/></td>
+    <td><b>Ambiente de Desenvolvimento:</b> Configuração otimizada, proficiência em atalhos, depuração de código (debugging) e extensões de produtividade.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></td>
+    <td><b>Controle de Versão:</b> Workflow com commits semânticos, gerenciamento de branches, merge resolution e Pull Requests.</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Projetos Principais
+
+### 1. 📊 [Vektor - Monitor de Finanças Pessoais](https://github.com/SEU_USUARIO/vektor)
+> *Gerenciador financeiro pessoal minimalista focado na clareza de fluxo de caixa.*
+* **Destaques Técnicos:** Interface limpa baseada em design de alto contraste, separação clara entre camadas de apresentação e lógica de negócios, e consumo de dados otimizado.
+* **Tecnologias:** JavaScript, HTML5, CSS3, REST API, LocalStorage/Database.
+
+### 2. 🎯 [TaskFlow - Sistema de Gestão Acadêmica](https://github.com/SEU_USUARIO/taskflow)
+> *Plataforma orientada à redução da procrastinação acadêmica e controle rígido de prazos.*
+* **Destaques Técnicos:** Arquitetura orientada à experiência do usuário, mapeamento completo de jornada, gerenciamento de estados e controle de prazos com regras de negócio personalizadas.
+* **Tecnologias:** Node.js, JavaScript, HTML5, CSS3.
+
+---
+
+## 📐 Diretrizes & Boas Práticas
+
+* **Clean Code:** Prioridade para nomes expressivos de variáveis e funções, evitando comentários óbvios.
+* **UI/UX Minimalista:** Foco em hierarquia visual intuitiva, remoção de elementos visuais desnecessários e alta performance de renderização.
+* **Versionamento Disciplinado:** Commits atômicos e bem documentados seguindo padrões de mercado.
+
+---
+
+## 📈 Estatísticas & Atividade
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas de Arthur" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais utilizadas" height="150" />
 </div>
 
-### Ambiente e Versionamento
-<div align="left">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<br />
+
+<div align="center">
+  <sub><i>Projetado com foco em clareza, rigor técnico e alta usabilidade.</i></sub>
 </div>
-
-## 💻 Projetos em Destaque
-
-*   **Vektor (Monitor de Finanças Pessoais):** Uma aplicação web focada em gestão financeira com uma interface de alto contraste e minimalista. Desenvolvido para simplificar o fluxo de caixa de usuários finais através de uma UI limpa e processamento assíncrono.
-*   **TaskFlow:** Plataforma de organização acadêmica projetada para mitigar a procrastinação estudantil. O projeto envolveu mapeamento completo da jornada do usuário, análise de concorrentes e implementação focada em gestão de prazos.
-
-## 📊 Estatísticas do GitHub
-
-<!-- Substitua o "SEU_USUARIO" pelo seu nome de usuário real do GitHub -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF&title_color=58A6FF" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF" alt="Linguagens mais usadas" height="150"/>
-</div>
-
-## 📫 Contato e Conexões
-
-Sempre aberto para discutir arquitetura de software, novos projetos e oportunidades de desenvolvimento.
-
-*   **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-*   **E-mail:** [seu-email@dominio.com](mailto:seu-email@dominio.com)
