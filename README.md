@@ -90,4 +90,7 @@ Estou sempre aberto para conversar sobre Engenharia de Software, Desenvolvimento
   <a href="mailto:arthurdeaguiarr@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
+  <a href="https://dev.to/arthur_deaguiar_">
+    <img src="https://skillicons.dev/icons?i=devto" alt="DEV Community" />
+  </a>
 </p>
