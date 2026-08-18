@@ -4,9 +4,9 @@
   <p><b>Estudante de Ciência da Computação @ UDF | Desenvolvedor Web & Software</b></p>
 
   <p>
-    <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:SEU_EMAIL@DOMINIO.COM"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://linkedin.com/in/arthur-de-aguiar-a77995289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:arthurdeaguiarr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/Arthurdeaguiarr"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
 
   ---
@@ -97,8 +97,8 @@ Busco constantemente aplicar **Princípios de Engenharia de Software**, **Clean 
 ## 📈 Estatísticas & Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas de Arthur" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais utilizadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthurdeaguiarr&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas de Arthur" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdeaguiarr&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais utilizadas" height="150" />
 </div>
 
 <br />
