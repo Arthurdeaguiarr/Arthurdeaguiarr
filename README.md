@@ -1,3 +1,11 @@
+# Olá, meu nome é Arthur! 👋
+
+Construindo sistemas escaláveis com código limpo e UI minimalista.
+
+Ciência da Computação @ UDF • Software Engineering • Full-Stack Web • Node.js • JavaScript • Python • REST APIs • SQL & Relational Databases • Minimalist UI/UX
+
+---
+
 # Construindo sistemas escaláveis com código limpo e UI minimalista.
 
 Ciência da Computação @ UDF • Software Engineering • Full-Stack Web • Node.js • JavaScript • Python • REST APIs • SQL & Relational Databases • Minimalist UI/UX
@@ -75,6 +83,10 @@ Atualmente, direciono minha atuação para Engenharia de Software e Desenvolvime
 Estou sempre aberto para conversar sobre Engenharia de Software, Desenvolvimento Web, Arquitetura de Sistemas e oportunidades de colaboração técnica.
 
 <p left>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:SEU_EMAIL@DOMINIO.COM"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/arthur-de-aguiar-santos-a77995289">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arthurdeaguiarr@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
