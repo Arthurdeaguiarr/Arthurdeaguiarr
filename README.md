@@ -72,10 +72,17 @@ Atualmente, direciono minha atuação para Engenharia de Software e Desenvolvime
 
 ## 🌱 Atualmente estou estudando
 
-* Arquitetura de Software e Padrões de Projeto (Design Patterns)
-* Modelagem Avançada de Bancos de Dados e Consultas SQL
-* Estruturas de Dados e Algoritmos com Python e JavaScript
-* Acessibilidade Web (WCAG) e Performance no Front-End
+### 🎓 Disciplinas Acadêmicas (2º Semestre — Ciência da Computação @ UDF)
+* **Algoritmos e Pensamento Computacional:** Construção de raciocínio lógico estruturado, solução de problemas e estruturas de dados fundamentais.
+* **Modelagem de Banco de Dados:** Conceitos de bancos de dados relacionais, modelagem conceitual/lógica e sintaxe SQL.
+* **Desenvolvimento Front-End para Web:** Estruturação semântica, estilização e comportamento web utilizando HTML5, CSS3 e JavaScript.
+* **Design Profissional:** Fundamentos de interfaces, usabilidade, acessibilidade e princípios de UI/UX para produtos digitais.
+
+### 📚 Cursos Extracurriculares & Especializações
+* **JavaScript & TypeScript Full-Stack (Otávio Miranda):**
+  * **Back-End:** Node.js, Express, bancos de dados NoSQL/SQL e criação de APIs RESTful.
+  * **Front-End:** React.js, React Hooks, gerenciamento de estado com Redux e desenvolvimento reativo.
+  * **Engenharia de Software:** Aplicação de Design Patterns (Padrões de Projeto) e boas práticas de arquitetura de código.
 
 ---
 
