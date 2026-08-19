@@ -14,9 +14,15 @@ Ciência da Computação @ UDF • Software Engineering • Full-Stack Web • N
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação no Centro Universitário UDF com foco no desenvolvimento de software end-to-end, construção de APIs RESTful e criação de interfaces web minimalistas e de alto contraste. Utilizo fundamentos de engenharia para criar aplicações performáticas e focadas em usabilidade.
+Sou estudante de **Ciência da Computação no Centro Universitário UDF**, com foco no desenvolvimento de software de ponta a ponta e na construção de soluções que unam rigor técnico, arquitetura limpa e alta usabilidade.
 
-Atualmente, direciono minha atuação para Engenharia de Software e Desenvolvimento Web, com foco prático em arquitetura modular, Clean Code e integração de sistemas. Destaco-me pelo raciocínio lógico, organização técnica e rigor no controle de versão.
+- ⚙️ **Back-End & Dados:** Criação de APIs RESTful, lógica de negócios, manipulação de bancos de dados SQL e arquitetura de aplicações modulares.
+- 🎨 **Front-End & UI/UX:** Desenvolvimento de interfaces web responsivas, dinâmicas e minimalistas com HTML5, CSS3, JavaScript (ES6+), expandindo a stack com TypeScript e React.
+- 🛠️ **Projetos de Engenharia:**
+  - **Jarvis Finances:** Plataforma de gestão financeira pessoal focada em clareza de fluxo de caixa e arquitetura desacoplada.
+  - **Study:** Sistema de produtividade acadêmica desenvolvido para otimização de rotinas e gerenciamento eficiente de prazos.
+- 🧠 **Princípios:** Aplicação contínua de Clean Code, controle de versão disciplinado com Git/GitHub e análise de raciocínio lógico na solução de problemas.
+- 🎯 **Objetivo:** Buscando oportunidade de **Estágio em Desenvolvimento de Software** para aplicar meus conhecimentos, evoluir com profissionais experientes e impactar projetos reais.
 
 ---
 
