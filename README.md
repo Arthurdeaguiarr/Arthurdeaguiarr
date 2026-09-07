@@ -8,7 +8,7 @@
 
 # Construindo sistemas escaláveis com código limpo e UI minimalista.
 
-Ciência da Computação @ UDF • Software Engineering • Full-Stack Web • Node.js • JavaScript • Python • REST APIs • SQL & Relational Databases • Minimalist UI/UX
+Ciência da Computação @ UDF • Software Engineering • Full-Stack Web • Node.js • JavaScript • Python • REST APIs • SQL • Minimalist UI/UX
 
 ---
 
@@ -69,7 +69,7 @@ Sou estudante de **Ciência da Computação no Centro Universitário UDF**, com 
 ### Ferramentas & Infraestrutura
 <p left>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,postgres,mysql" alt="Ferramentas e Bancos de Dados" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Ferramentas e Bancos de Dados" />
   </a>
 </p>
 
