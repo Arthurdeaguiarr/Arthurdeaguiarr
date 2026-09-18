@@ -69,7 +69,7 @@ Sou estudante de **Ciência da Computação no Centro Universitário UDF**, com 
 ### Ferramentas & Infraestrutura
 <p left>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Ferramentas e Bancos de Dados" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,MySQL" alt="Ferramentas e Bancos de Dados" />
   </a>
 </p>
 
